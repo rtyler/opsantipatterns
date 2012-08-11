@@ -14,11 +14,14 @@ GEM
       kramdown (~> 0.13)
       liquid (~> 2.3)
       maruku (~> 0.5)
+    jekyll-tagging (0.3.1)
+      ruby-nuggets
     kramdown (0.13.7)
     liquid (2.4.1)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
+    ruby-nuggets (0.8.8)
     syntax (1.0.0)
 
 PLATFORMS
@@ -26,3 +29,4 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-tagging

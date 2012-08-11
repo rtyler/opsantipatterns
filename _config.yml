@@ -1,3 +1,9 @@
 safe: true
 lsi: false
 pygments: true
+tag_page_layout: tag
+tag_page_dir: tags
+paginate: 10
+exclude:
+- Gemfile
+- Gemfile.lock
