@@ -20,9 +20,9 @@ tags:
 ### Story
 
 
-(**Editor's Note:** *In order to preserve the anonymity of my sources, every
-company shall be referred to as "Secret Company Organization", or "SCO."
-And I will pick a random name for ops engineers, such as "Daryl."*)
+(**Editor's Note:** *In order to preserve the anonymity of my sources, the
+company shall be referred to as "Secret Company Organization", or "SCO." And I
+will pick a random name for ops engineers, such as "Daryl."*)
 
 
 Prior to working for SCO, Daryl had several "less than ideal" encounters with

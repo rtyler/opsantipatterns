@@ -7,7 +7,7 @@ tags:
 
 ### Pattern
 
-1. DNS as a global system is straight-forward and tolerant to mistakes
+1. DNS as a global system is straight-forward and tolerant to mistakes.
 
 
 ---
